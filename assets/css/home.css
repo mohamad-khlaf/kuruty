@@ -27,6 +27,9 @@
     height: 5px;
     background-color: white;
 }
+section {
+    overflow: hidden;
+}
 ::-webkit-scrollbar-thumb {
     background: red;
 }
